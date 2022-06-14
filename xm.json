@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://github.com/Marcotso/code/raw/main/wallpaper-3840x2160-935k.jpg",
 
-"spider":"clan://xm/xm.jar",
+"spider":"https://github.com/Marcotso/sm/raw/main/xm.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL3htL3R2L2xpdmUudHh0"
